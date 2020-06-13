@@ -1,3 +1,4 @@
 # wenews
 We News - En Güncel Haberler
-![stack Overflow](https://imgur.com/YLKyZJ7)
+React-Native 0.62 
+
