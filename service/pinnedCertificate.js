@@ -1,0 +1,1 @@
+export const newsApiCert = "sha256/7aQcvAVDYaa/GbZs5f11CGKwqlAUMJImLd1pFJcsps=";
